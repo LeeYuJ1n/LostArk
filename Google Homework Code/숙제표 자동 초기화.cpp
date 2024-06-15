@@ -1,6 +1,5 @@
 ﻿function myFunction()
 {
-
     var targetSheets = ["카단", "니나브", "태연이숙제", "지호숙제", "문의"]; // List of target sheets
 
     for (var sheetName of targetSheets)
