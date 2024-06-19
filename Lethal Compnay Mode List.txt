@@ -28,3 +28,6 @@ BetterStamina - 스태미나 향상
 flashlighttoggle - 손전등 F 사용 가능
 sellbodies - 몬스터 시체 판매
 ImmersiveScraps - 스크랩 추가
+
+○ 맵
+Scoopys Variety Mod - 던전 및 하수구
