@@ -1,0 +1,30 @@
+○ 호스트 전용
+Lethal_Admin - 고아들 밴리스트 만들기(호스트전용)
+Lockdown - 여러가지 기능 제한. 물건구매, 가구옮기기 등 (호스트 전용)
+
+○ 공용
+MoreCompany - 인원수 늘리기 (방 없으면 온오프 할 때 많음)
+LC_API - 다른거 작동용 모드인데 이거 키고 끄고로 방 목록 뜨는게 달라져서 껴둠
+ShipLobby - 중도 참여 가능 (궤도에 있을때)
+Hold_Scan_Button - 우클 꾹 누르면 스캔 계속 되는거
+Hikari - 체력, 무게 표시, 크로스헤어
+CrossHair - 크로스헤어
+CleanerLogs - 로그 줄이기?
+ShipLootPlus - 함선내 스크랩 가격 총합, 할당량, 남은 일 수 표시
+AlwaysPickup - 함선 출발 전 물건 집기 가능
+HotbarPlus - 인벤칸 늘리기 + 아이템 슬롯 키 할당 + 빠르게 아이템 버리기
+WalkieUse - 무전기 손에 안들고 있어도 R키로 키고 끄기 가능
+MoreItems - 함선 내 아이템 한도 증가 (45개 -> 999개)
+NoSellLimit - 판매 데스크 아이템 한도 증가 (12개 -> ??개)
+AlwaysHearActiveWalkies - 무전기 안들고 있어도 근처에 있으면 소리 들리는거
+NameplateTweaks - 이름판 잘 보이게 조정 + 다른 사람 말 할 때 스피커 표시
+Solos_Bodycams - 함선 내 레이더 옆 모니터에 관전자 시점 송출
+More_Suits - 옷 여러가지
+Skinwalkers - 몬스터가 사람 말 하는거
+YippeeMod - 비축이 옙삐~~ 사운드
+ItemQuickSwitch - 아이템 숫자키로 선택 가능한 모드(최대 6)
+TwoHandedMod - 양손 한손 모드
+BetterStamina - 스태미나 향상
+flashlighttoggle - 손전등 F 사용 가능
+sellbodies - 몬스터 시체 판매
+ImmersiveScraps - 스크랩 추가
